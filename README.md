@@ -1,2 +1,1 @@
-# myapp
-demo app for uni
+Hello GitHub
